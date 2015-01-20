@@ -6,5 +6,5 @@
   :dependencies [[org.clojure/clojure "1.6.0"]
                  [hdiapi/hdiapi "1.1.2"]
                  ]
-  ;:injections [ (clojure.lang.RT/loadlibrary com.codeminders.hidapi.ClassPathLibraryLoader.loadNativeHIDLibrary()) ]
+
   )
